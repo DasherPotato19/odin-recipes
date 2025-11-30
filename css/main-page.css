@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(103, 24, 179);
+    background-color: rgb(160, 193, 192);
+
+    padding: 10px 20px;
+    border: aqua solid 5px;
+    margin: 10px auto;
+
+    width: 390px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px auto;
+}
+
+ul {
+    font-family: "Brush Script MT", cursive;
+    font-size: 25px;
+    background-color: darksalmon;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    border: red outset 5px;
+    margin: 10px 20px;
+
+    width: 220px;
+}
