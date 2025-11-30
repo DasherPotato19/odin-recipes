@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+    font-size: 100px;
+    border-width: 5px;
+    border-style: inset;
+}
+
+img {
+    /* MARGEN CENTRADO */
+    margin: 20px auto;
+}
+
+#grilled-cheese-title {
+    color: #FFC40C;
+    background-color: yellow;
+    border-color: #D5A200;
+
+    padding: 10px 20px;
+    margin: 5px 25px 20px;
+}
+
+#grilled-cheese-image {
+    width: 400px;
+}
