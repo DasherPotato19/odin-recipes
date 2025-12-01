@@ -61,6 +61,18 @@ p, li {
     margin-top: 12px;
 }
 
+#grilled-cheese-bg {
+    background-color: #FFF999;
+}
+
+#tomato-soup-bg {
+    background-color: #FF9999;
+}
+
+#hot-chocolate-bg {
+    background-color: #9E8265;
+}
+
 #grilled-cheese-title {
     color: #FFC40C;
     background-color: yellow;
