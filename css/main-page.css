@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: rgb(173, 255, 173);
+}
+
 h1 {
     font-family: "Trebuchet MS", sans-serif;
     text-align: center;

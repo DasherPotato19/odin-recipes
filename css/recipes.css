@@ -54,6 +54,10 @@ h2.tomato {
     color: green;
 }
 
+h2.chocolate {
+    color: #352B21;
+}
+
 #ingredients {
     background-color: #B5AEF7;
     border: purple solid 5px;
@@ -90,6 +94,12 @@ h2.tomato {
     color: rgb(180, 0, 0);
     background-color: tomato;
     border-color: orangered;
+}
+
+#hot-chocolate-title {
+    color: #4A3621;
+    background-color: #7D552B;
+    border-color: saddlebrown;
 }
 
 #tips {
