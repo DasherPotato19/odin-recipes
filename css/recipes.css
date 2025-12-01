@@ -8,8 +8,10 @@ h1 {
     font-size: 100px;
     border-width: 5px;
     border-style: inset;
-    margin: 0px auto;
+    
     width: fit-content;
+    padding: 10px 20px;
+    margin: 5px auto 20px;
 }
 
 img {
@@ -17,6 +19,7 @@ img {
     margin: 20px auto;
     padding: 0px;
     display: block;
+    width: 400px;
 }
 
 h2 {
@@ -45,6 +48,10 @@ li {
 p, li {
    font-family: "Verdana", sans-serif; 
    font-size: 18px;
+}
+
+h2.tomato {
+    color: green;
 }
 
 #ingredients {
@@ -77,13 +84,12 @@ p, li {
     color: #FFC40C;
     background-color: yellow;
     border-color: #D5A200;
-
-    padding: 10px 20px;
-    margin: 5px 25px 20px;
 }
 
-#grilled-cheese-image {
-    width: 400px;
+#tomato-soup-title {
+    color: rgb(180, 0, 0);
+    background-color: tomato;
+    border-color: orangered;
 }
 
 #tips {
